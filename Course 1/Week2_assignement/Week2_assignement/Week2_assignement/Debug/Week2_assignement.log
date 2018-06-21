@@ -1,2 +1,4 @@
 ﻿  Week2_assignement.cpp
+c:\users\david\documents\code\algorithms_spec\course 1\week2_assignement\week2_assignement\week2_assignement\week2_assignement.cpp(62): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+c:\users\david\documents\code\algorithms_spec\course 1\week2_assignement\week2_assignement\week2_assignement\week2_assignement.cpp(81): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
   Week2_assignement.vcxproj -> C:\Users\david\Documents\Code\algorithms_spec\Course 1\Week2_assignement\Week2_assignement\Debug\Week2_assignement.exe
