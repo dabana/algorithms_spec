@@ -1,0 +1,4 @@
+﻿  Week3_assignement.cpp
+c:\users\david\documents\code\algorithms_spec\course 1\week3_assignement\week3_assignement\week3_assignement\week3_assignement.cpp(37): warning C4715: 'ChoosePivot': not all control paths return a value
+c:\users\david\documents\code\algorithms_spec\course 1\week3_assignement\week3_assignement\week3_assignement\week3_assignement.cpp(20): warning C4715: 'median_of_3': not all control paths return a value
+  Week3_assignement.vcxproj -> C:\Users\david\Documents\Code\algorithms_spec\Course 1\Week3_assignement\Week3_assignement\Debug\Week3_assignement.exe
